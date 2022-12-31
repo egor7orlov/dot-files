@@ -1,0 +1,38 @@
+{
+  "editor.fontFamily": "'Fira Code', monospace",
+  "editor.tabSize": 2,
+  "editor.rulers": [
+      80
+  ],
+  "html.format.wrapLineLength": 80,
+  "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+  "eslint.validate": [
+      "javascript"
+  ],
+  "editor.cursorBlinking": "phase",
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "editor.lineHeight": 1.4,
+  "window.openFilesInNewWindow": "on",
+  "window.openFoldersInNewWindow": "on",
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "todohighlight.keywords": [
+      {
+          "text": "TODO:",
+          "color": "#BDE038",
+          "backgroundColor": "rgba(0,0,0,0)",
+          "overviewRulerColor": "#BDE038"
+      }
+  ],
+  "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
